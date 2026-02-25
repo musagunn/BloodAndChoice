@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67483907b1153eb479e09c91bf7f932d, type: 3}
+  m_Name: Card_CursedAltar
+  m_EditorClassIdentifier: 
+  description: "Orman\u0131n derinliklerinde kanla kapl\u0131 eski bir sunak buldun.
+    \xDCzerinde alt\u0131nlar var ama u\u011Fursuz bir enerji yay\u0131yor."
+  leftText: "Uzakla\u015F"
+  leftHealthEffect: 0
+  leftGoldEffect: 0
+  leftPotionEffect: 0
+  storyFlagOnLeft: 
+  rightText: "Alt\u0131nlar\u0131 Al"
+  rightHealthEffect: -20
+  rightGoldEffect: 100
+  rightPotionEffect: 0
+  storyFlagOnRight: 

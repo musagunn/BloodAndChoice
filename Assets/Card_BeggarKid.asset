@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67483907b1153eb479e09c91bf7f932d, type: 3}
+  m_Name: Card_BeggarKid
+  m_EditorClassIdentifier: 
+  description: "K\xFC\xE7\xFCk bir \xE7ocuk ete\u011Fine yap\u0131\u015Ft\u0131.
+    'Babam hasta, l\xFCtfen yard\u0131m et' diyor."
+  leftText: "Git ba\u015F\u0131mdan."
+  leftHealthEffect: 0
+  leftGoldEffect: 0
+  leftPotionEffect: 0
+  storyFlagOnLeft: 
+  rightText: "Al bakal\u0131m"
+  rightHealthEffect: 0
+  rightGoldEffect: -20
+  rightPotionEffect: 0
+  storyFlagOnRight: CocugaYardim
